@@ -15,6 +15,9 @@ Most code is copied from __https://github.com/jarodms/ionic3-sidemenu-tabs__
 I'm starting with the Confernece app and stripping a lot of it away, plus adding a few things.
 
 ## Latest
+* 06/25/2018: Configuring project for testing with Karma and Jasmine following the tutorial at https://leifwells.github.io/2017/08/27/testing-in-ionic-configure-existing-projects-for-testing/
+
+
 * 06/04/2018: using specific versions of npm packages Firebase and AngularFirebase2 to pull from a list. Read more on how to setup your Firebase Project: https://medium.com/codingthesmartway-com-blog/building-an-angular-5-project-with-bootstrap-4-and-firebase-4504ff7717c1#93a4
 
 * 03/14/18: during postinstall (`npm i`), version number is pulled from package.json and placed into assets\version.ts;  Thanks to  https://medium.com/@amcdnl/version-stamping-your-app-with-the-angular-cli-d563284bb94d
